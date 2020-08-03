@@ -1,0 +1,15 @@
+
+g
+java:S1128"ERemove this unused import 'java.util.concurrent.CopyOnWriteArraySet'.(Üñí¡úÿÿÿÿ8ÒÒ©».
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(ñ»ò—şÿÿÿÿ8‹î‚».
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8Ë“İ¨».
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹ÿØ¡8ï”éÒº.
+U
+java:S1128	"8Remove this unused import 'java.util.function.Supplier'.(†ïÿ‘8ò Ø‡».
+P
+java:S1128".Remove this unused import 'com.sun.jdi.Value'.(ñ»ò—şÿÿÿÿ8¶µî‚».
+]	java:S125"<This block of commented-out lines of code should be removed.(­üÂ˜øÿÿÿÿ8ªÃÒßº.
+K
+java:S1481A".Remove this unused "modelList" local variable.(Îñ„8¢ñ€«».
